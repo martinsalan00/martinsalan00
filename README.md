@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsalan00&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsalan00&hide_progress=true)
+
+<br>
+<main>
+  <p>
   Hello, I'm Alan Martins, Developer and passionate about transforming ideas into real solutions through technology. I'm currently in a transition phase in my career, looking for new challenges that allow me to use my skills on both the front-end and back-end. I like to stay constantly evolving, always curious to learn new technologies and find creative ways to solve problems. I'm looking for opportunities where I can make a difference and contribute to projects that have a positive impact, helping companies and teams grow. I worked as a learning facilitator with experience in training new employees, I have ease in adapting to new work environments, developing teams and delivering quality results within the stipulated deadline. I believe that my skills in Programming Language and Framework can be beneficial for the team's projects!
 </p>
 <main></main>Let's build something incredible together?</main>
@@ -32,7 +37,8 @@
               </a>
         <br>
         <br>
-       
+        </main>
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsalan00)](https://github.com/anuraghazra/github-readme-stats)
        
 
 
