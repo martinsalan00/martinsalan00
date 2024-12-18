@@ -21,6 +21,18 @@
                 <img src="https://images.vexels.com/content/166401/preview/java-programming-language-icon-05bb98.png" width="100px" height="50px" />
                 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="100px" height="50px" />
                 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="100px" height="50px" />
+                <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" width="100px" height="50px" />
         </div>
+        <br>
+        <br>
+              <summary><strong>Connect with me:</strong></summary>
+              <br>
+              <a href="https://www.linkedin.com/in/alan-martins-oliveira/">
+              <img src="https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg" align="left" width="50px" alt="logo-linkedin" /> 
+              </a>
+        <br>
+        <br>
+       
+       
 
 
