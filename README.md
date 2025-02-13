@@ -1,43 +1,64 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub profile!  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsalan00&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsalan00&hide_progress=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinsalan00&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsalan00&layout=compact&theme=radical" />
+</div>
 
-<br>
-<main>
-  <p>
-  Hello, I'm Alan Martins, Developer and passionate about transforming ideas into real solutions through technology. I'm currently in a transition phase in my career, looking for new challenges that allow me to use my skills on both the front-end and back-end. I like to stay constantly evolving, always curious to learn new technologies and find creative ways to solve problems. I'm looking for opportunities where I can make a difference and contribute to projects that have a positive impact, helping companies and teams grow. I worked as a learning facilitator with experience in training new employees, I have ease in adapting to new work environments, developing teams and delivering quality results within the stipulated deadline. I believe that my skills in Programming Language and Framework can be beneficial for the team's projects!
-</p>
-<main></main>Let's build something incredible together?</main>
-<br>
-<br>
-    <summary><strong>What am I learning now?</strong></summary>
-    <br>
-        <div style="display: inline-block" >
-                <img src="https://img.shields.io/badge/HTML5-E34F26?style-for-the-badge&logo-html5&logoColor-white" alt="html-logo" width="100px" height="50px" />
-                <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" width="100px" height="50px"" />
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100px" height="50px" />
-                <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width="100px" height="50px" />
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41EGobFkxF4OBAOhSRt25hJ2HQvdDJviPnQ&s" width="100px" height="50px" />
-                <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100px" height="50px" />
-                <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100px" height="50px" />
-                <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100px" height="50px" />
-                <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="100px" height="50px" />
-                <img src="https://images.vexels.com/content/166401/preview/java-programming-language-icon-05bb98.png" width="100px" height="50px" />
-                <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="100px" height="50px" />
-                <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="100px" height="50px" />
-                <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" width="100px" height="50px" />
-        </div>
-        <br>
-        <br>
-              <summary><strong>Connect with me:</strong></summary>
-              <br>
-              <a href="https://www.linkedin.com/in/alan-martins-oliveira/">
-              <img src="https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg" align="left" width="50px" alt="logo-linkedin" /> 
-              </a>
-        <br>
-        <br>
-        </main>
-   
+---
 
+## 🌌 About Me  
+🚀 **Alan Martins | Full Stack Developer**  
+🎮 Passionate about **technology, football, and video games**.  
+📈 Always evolving and keeping up with **the latest tech trends**.  
+💡 Focused on **problem-solving and building impactful solutions**.  
 
+I am currently transitioning in my career, seeking new **challenges** that allow me to use my **skills** in both **front-end** and **back-end** development. I love learning new technologies and finding **creative** ways to solve problems.  
+
+With experience as a **learning facilitator**, I have strong adaptability, teamwork, and a results-driven mindset. My expertise in **programming languages and frameworks** can be highly beneficial to any development team.  
+
+✨ **Let’s build something incredible together!**  
+
+---
+
+## 📚 Technologies & Tools  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40px" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" height="40px" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40px" />
+</div>
+
+---
+
+## 📈 What I'm currently learning  
+
+🔹 Advanced **React & Next.js** for high-performance applications  
+🔹 **Microservices Architecture** with Node.js  
+🔹 **System Design & Scalability**  
+🔹 **DevOps tools** like Kubernetes and Terraform  
+
+---
+
+## 📬 Connect with Me  
+Feel free to reach out and let’s collaborate!  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alan-martins-oliveira/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40px" />
+  </a>
+</div>
+
+---
+
+💡 **_"Technology moves the world, and I move technology!"_** 🚀
