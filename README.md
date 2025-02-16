@@ -42,6 +42,17 @@ With experience as a **learning facilitator**, I have strong adaptability, teamw
 
 ---
 
+## 📋 Project Management & Agile Tools  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="40px" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="40px" />
+</div>
+
+---
+
+
 ## 📈 What I'm currently learning  
 
 🔹 Advanced **React & Next.js** for high-performance applications  
@@ -55,8 +66,14 @@ With experience as a **learning facilitator**, I have strong adaptability, teamw
 Feel free to reach out and let’s collaborate!  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alan-martins-oliveira/">
+  <a href="https://www.linkedin.com/in/alan-martins-oliveira/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40px" />
+  </a>
+  <a href="mailto:martinsalan00@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40px" />
+  </a>
+  <a href="https://wa.me/5511975764212" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40px" />
   </a>
 </div>
 
