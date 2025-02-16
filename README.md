@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Alan | Frontend Developer
+# 👋 Hi! I'm Alan | Frontend Developer | Full Stack Developer
 Welcome to my GitHub profile!  
 
 <div align="center">
@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 🌌 About Me  
-🚀 **Alan Martins | Full Stack Developer**  
+🚀 **Alan Martins | Developer**  
 🎮 Passionate about **technology, football, and video games**.  
 📈 Always evolving and keeping up with **the latest tech trends**.  
 💡 Focused on **problem-solving and building impactful solutions**.  
